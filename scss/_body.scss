@@ -1,0 +1,23 @@
+.cuerpo {
+    background: #B0BCA7;
+}
+
+.formulario {
+    text-align: center;
+    background-color: #8c9685;
+    width: 50%;
+    margin: 5% auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px black;
+
+    .texto {
+        padding: 20px;
+    }
+
+    .btn.btn-light {
+        margin-top: 20px;
+        margin-inline: 10px;
+        box-shadow: 0px 0px 3px black;
+    }
+}
